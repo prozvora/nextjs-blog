@@ -23,7 +23,8 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>
           I'm Pavel, a software developer. I work at Wayfair, developing on the
-          web, mostly on the frontend. I mostly work with React.
+          web, mostly on the frontend. I mostly work with React. We are learning
+          all about Next.js in Epic Learning.
         </p>
         <p>
           My personal interests include my dog Duncan, BJJ, chess, and other
