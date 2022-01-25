@@ -1,0 +1,151 @@
+.heading2Xl {
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.headingXl {
+  font-size: 2rem;
+  line-height: 1.3;
+  font-weight: 800;
+  letter-spacing: -0.05rem;
+  margin: 1rem 0;
+}
+
+.headingLg {
+  font-size: 1.5rem;
+  line-height: 1.4;
+  margin: 1rem 0;
+}
+
+.headingMd {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.borderCircle {
+  border-radius: 9999px;
+}
+
+.colorInherit {
+  color: inherit;
+}
+
+.padding1px {
+  padding-top: 1px;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.listItem {
+  margin: 0 0 1.25rem;
+}
+
+.lightText {
+  color: #666;
+}
+
+/* @keyframes beforeImageFade {
+  0% {
+    opacity: 1;
+  }
+  45% {
+    opacity: 1;
+  }
+  55% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes gifFade {
+  0% {
+    opacity: 0;
+  }
+  61% {
+    opacity: 0;
+  }
+  62% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.beforeImgMobile {
+  animation-name: beforeImageFade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 6.8s;
+  animation-direction: alternate;
+  position: absolute;
+  z-index: 10;
+  left: 100px;
+  top: 380px;
+}
+
+.afterImgMobile {
+  position: absolute;
+  left: 100px;
+  top: 380px;
+}
+
+.beforeImg {
+  animation-name: beforeImageFade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 6.8s;
+  animation-direction: alternate;
+  position: absolute;
+  z-index: 10;
+  left: 525px;
+}
+
+.afterImg {
+  position: absolute;
+  left: 525px;
+}
+
+.wowGif {
+  width: 375px;
+  height: auto;
+  animation-name: gifFade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 6.8s;
+  animation-direction: alternate;
+}
+
+.wowGifContainer {
+  position: absolute;
+  left: 100px;
+  width: 400px;
+  height: auto;
+  text-align: center;
+}
+
+.emptySpacing {
+  min-height: 100px;
+}
+
+.imageContainer {
+  display: block;
+} */
+
+/* .gifContainer {
+  animation-name: gifFade;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: infinite;
+  animation-duration: 4s;
+  animation-direction: alternate;
+  position: absolute;
+} */
